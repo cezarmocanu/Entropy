@@ -1,0 +1,18 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/ambient.wav","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/ambient.xnb","SongProcessor","SongContent",4838444,125,0.69919
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/ball.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.62021
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/circle_02.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/circle_02.xnb","TextureProcessor","Texture2DContent",30403,1048661,0.277811
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/circle_05.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/circle_05.xnb","TextureProcessor","Texture2DContent",27583,1048661,0.08775
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/File.spritefont","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2012,37905,0.400389
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/flame_04.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/flame_04.xnb","TextureProcessor","Texture2DContent",43388,1048661,0.287746
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/light_03.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/light_03.xnb","TextureProcessor","Texture2DContent",62268,1048661,0.11804
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/metal.jpeg","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/metal.xnb","TextureProcessor","Texture2DContent",19277,900085,0.276065
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/scorch_02.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/scorch_02.xnb","TextureProcessor","Texture2DContent",71227,1048661,0.112668
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/scorch_03.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/scorch_03.xnb","TextureProcessor","Texture2DContent",88181,1048661,0.085299
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/smoke_01.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/smoke_01.xnb","TextureProcessor","Texture2DContent",86344,1048661,0.106771
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/space.jpeg","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/space.xnb","TextureProcessor","Texture2DContent",602456,3645805,0.555906
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/spark_04.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/spark_04.xnb","TextureProcessor","Texture2DContent",77451,1048661,0.175189
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/spark_05.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/spark_05.xnb","TextureProcessor","Texture2DContent",44785,1048661,0.090436
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/star_01.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/star_01.xnb","TextureProcessor","Texture2DContent",29258,1048661,0.09296
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/star_07.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/star_07.xnb","TextureProcessor","Texture2DContent",25846,1048661,0.086117
+"/home/cezar/Projects/Gladiator5/Gladiator5/Content/twirl_02.png","/home/cezar/Projects/Gladiator5/Gladiator5/Content/bin/DesktopGL/twirl_02.xnb","TextureProcessor","Texture2DContent",45770,1048661,0.101139

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/ambient.wav</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/ball.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/circle_02.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/circle_05.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/File.spritefont</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/flame_04.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/light_03.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/metal.jpeg</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/scorch_02.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/scorch_03.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/smoke_01.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/space.jpeg</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/spark_04.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/spark_05.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/star_01.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/star_07.png</File>
+    <File>/home/cezar/Projects/Gladiator5/Gladiator5/Content/twirl_02.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
